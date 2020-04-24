@@ -1,0 +1,9 @@
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\bin\Release\netcoreapp3.1\RSI.Core.deps.json
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\bin\Release\netcoreapp3.1\RSI.Core.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\bin\Release\netcoreapp3.1\RSI.Core.pdb
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\obj\Release\netcoreapp3.1\RSI.Core.csprojAssemblyReference.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\obj\Release\netcoreapp3.1\RSI.Core.csproj.CoreCompileInputs.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\obj\Release\netcoreapp3.1\RSI.Core.AssemblyInfoInputs.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\obj\Release\netcoreapp3.1\RSI.Core.AssemblyInfo.cs
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\obj\Release\netcoreapp3.1\RSI.Core.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI\RSI.Core\obj\Release\netcoreapp3.1\RSI.Core.pdb

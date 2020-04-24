@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RvA5ws2u1O54FD+5x7uYUJBEmX903XgHmO5DK4GT7DVRSBwONAib7Ubtl/cpnyW4Pbslw4tlIkAkTdlUgVUcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\epawe\\OneDrive\\Pulpit\\RSI\\RSI\\RSI.Core\\RSI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\epawe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\epawe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\epawe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\epawe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\epawe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

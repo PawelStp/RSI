@@ -1,0 +1,16 @@
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\RSI.dll.config
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\RSI.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\RSI.pdb
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\obj\Debug\RSI.csprojAssemblyReference.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\obj\Debug\RSI.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\obj\Debug\RSI.pdb
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\Ninject.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\Ninject.Extensions.Wcf.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\Ninject.Web.Common.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\RSI.Core.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\RSI.Core.pdb
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\Ninject.xml
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\Ninject.Extensions.Wcf.xml
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\bin\Ninject.Web.Common.xml
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI\obj\Debug\RSI.csproj.CopyComplete

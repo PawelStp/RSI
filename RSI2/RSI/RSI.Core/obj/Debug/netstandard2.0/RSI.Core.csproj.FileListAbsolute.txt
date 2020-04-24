@@ -1,0 +1,9 @@
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\bin\Debug\netstandard2.0\RSI.Core.deps.json
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\bin\Debug\netstandard2.0\RSI.Core.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\obj\Debug\netstandard2.0\RSI.Core.csprojAssemblyReference.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\obj\Debug\netstandard2.0\RSI.Core.AssemblyInfoInputs.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\obj\Debug\netstandard2.0\RSI.Core.AssemblyInfo.cs
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\bin\Debug\netstandard2.0\RSI.Core.pdb
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\obj\Debug\netstandard2.0\RSI.Core.csproj.CoreCompileInputs.cache
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\obj\Debug\netstandard2.0\RSI.Core.dll
+C:\Users\epawe\OneDrive\Pulpit\RSI\RSI2\RSI\RSI.Core\obj\Debug\netstandard2.0\RSI.Core.pdb
