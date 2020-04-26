@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RSI.Core.Interfaces;
 using RSI.Core.Models;
+using RSIWebApi.Handlers;
 using System;
 
 namespace RSIWebApi.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     [TypeFilter(typeof(CustomFilter))]
@@ -68,9 +71,14 @@ namespace RSIWebApi.Controllers
         }
 
         [HttpPost("Login")]
+        [AllowAnonymous]
         public IActionResult Login(LoginDTO dTO)
         {
-            return Ok(_userService.Login(dTO.Username, dTO.Password));
+            return Ok(new
+            {
+                Success = _userService.Login(dTO.Username, dTO.Password),
+                Key = _userService.Login(dTO.Username, dTO.Password) ? (new JWTTokenHandler()).Generate(dTO.Username) : null
+            });
         }
     }
 
